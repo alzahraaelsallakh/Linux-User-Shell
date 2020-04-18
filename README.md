@@ -1,4 +1,4 @@
-# Linux_shell-C
+# Linux-User-Shell
 
 This repo is for CS170: Spring 2016 project1 - OS course
 
